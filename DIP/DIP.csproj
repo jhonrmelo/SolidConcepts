@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Erro\" />
     <Folder Include="Solucao\" />
   </ItemGroup>
 

@@ -2,11 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Exe</OutputType>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Erro\" />
-    <Folder Include="Solucao\" />
-  </ItemGroup>
 
 </Project>
