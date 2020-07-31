@@ -1,6 +1,6 @@
 
  <div align="center"> 
-    <img src="https://img.shields.io/github/languages/top/jhonrmelo/SolidConcepts">     
+    <img src="https://img.shields.io/github/languages/top/jhonrmelo/SolidConcepts?style=plastic">     
  </div>
 
  # :blue_book: Príncipios S.O.L.I.D
